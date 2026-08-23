@@ -6,11 +6,10 @@ Mostly I do stuff like game dev (on various platforms) or software dev tinkering
 
 ## Languages:
 In case you want it, here's a list of languages I have experience in:
-```
-- Lua
-- Css
-- Html
-- JavaScript
-- Bash
-- Scratch (Blocks)
-```
+
+- `Lua`
+- `Css`
+- `Html`
+- `JavaScript`
+- `Bash`
+- `Scratch (Blocks)`
