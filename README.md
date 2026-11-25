@@ -5,7 +5,7 @@ It appears you've landed on my profile page. Hope you're having a good day so fa
 Mostly I tinker around with things like game development (on various platforms) or software development (mostly front-end + some back-end). I currently am studying general cybersecurity as well. I have acquired an obsession with Linux. I currently have only tried TinyCore and Mint, however I plan to eventually distro hop to try out a majority of the main ones plus extra. If you have a windows problem DON'T ask me, I have rarely used with the OS and hated it when I did for about a month. Currently I've been operating on Linux daily for around 7 months as of November of 2026.
 
 ## Github Stats
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Nathan-093&theme=purple)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Nathan-093&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=Nathan-093&show_icons=true&include_all_commits=true&theme=midnight-purple)
 
 ## Programming Languages:
 In case you want it, here's a list of languages I have experience in:
